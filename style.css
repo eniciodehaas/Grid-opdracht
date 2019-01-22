@@ -7,7 +7,7 @@ header{
   padding-left: 3em;
 }
 header{
-  background-color: blue;
+  background-color: yellow;
   background-image: url("img/mobile.jpg");
 
 }
@@ -32,7 +32,6 @@ main h3{
   font-family: "Times New Roman", Times, serif;
 }
 main p{
-  font-family: "Courier New" monospace;
   font-size: 1em;
 }
 .img{
@@ -71,6 +70,7 @@ main p{
     grid-row: 3/5;
     grid-column: 3/4;
     padding-top: 8%;
+    height: 100%;
   }
   header{
     background-image: url("img/desktop.jpg");
